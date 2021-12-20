@@ -18,6 +18,7 @@ allprojects {
         jcenter()
         google()
     }
+//test
 }
 
 task clean(type: Delete) {
